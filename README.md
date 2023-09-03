@@ -2,8 +2,8 @@
 
 This ongoing portfolio contains projects developed for academic and professional purposes.
 
-| Project          | Description       | Tools         |
-| ---------------- | ----------------- | ------------- |
-| [Letterboxd Dashboard](https://github.com/ervkc/Data-Analysis-Portfolio/blob/main/letterboxd%20project.ipynb)   | Conducted an analysis on personal movie-watching habits. Scraped movie data by connecting to an external API, and used Tableau to visualize it. | Python(pandas), Jupyter Notebooks, Tableau, Excel    |
+| Project          | Description       | 
+| ---------------- | ----------------- | 
+| [Letterboxd Dashboard](https://github.com/ervkc/Data-Analysis-Portfolio/blob/main/letterboxd%20project.ipynb)   | Performed an analysis on personal movie-watching habits in Jupyter notebooks. Developed a Python script that utilizes an API for data retrieval, as well as pandas for data cleaning. Utilized Tableau for visualization.
 | Balls | balls | balls |
 
