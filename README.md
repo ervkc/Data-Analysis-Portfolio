@@ -1,6 +1,6 @@
 # Portfolio
 
-This ongoing portfolio contains projects developed for academic and professional purposes.
+This ongoing portfolio contains projects developed for academic and personal purposes.
 
 | Project          | Description       | 
 | ---------------- | ----------------- | 
